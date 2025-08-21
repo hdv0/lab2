@@ -2,7 +2,7 @@
 // Description: Hello World in C++
 //============================================================
 #include <iostream>
-#include 
+#include "hello1function.cpp"
 using namespace std;
 int hello1Function(string name1);
 int hello2Function(string name2);
